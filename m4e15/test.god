@@ -7,4 +7,3 @@
     <stroke type="h" x="0" y="114" width="128" height="14"/>
   </glyph>
 </god>
-
